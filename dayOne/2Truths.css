@@ -1,0 +1,24 @@
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+h3 {
+    color: blue;
+}
+p {
+    color: red;
+}
+#Parentborder {
+    border: solid 10px black;
+    border-radius: 30px;
+    background-color: grey;
+}
+.one {
+    border: solid 2px purple;
+    border-radius: 30px;
+    background-color: lightgray;
+}
+#align {
+    display: flex;
+    justify-content: space-evenly;
+}
